@@ -22,7 +22,7 @@
     "dev": "vite",
     "start": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist/assets",
     "build": "vite build --outDir dist --base './'",
     "test": "tsc --no-emit",
     "preview": "vite preview"

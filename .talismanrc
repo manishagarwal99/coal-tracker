@@ -1,0 +1,12 @@
+fileignoreconfig:
+- filename: .env
+  checksum: 29f4b1f0cd022ff12f1801f8f1b504070b8bdf061985471311783076f97044aa
+- filename: env.d.ts
+  checksum: 7d961d43ee146936e0b7c287fdafdc7518c878c28e6d5a204d30fa9f9462586f
+- filename: index.html
+  checksum: a6bdf5355e109185a9a65df5e3f44ac7811541a4c0c4e0d63e0be38ab5caa488
+- filename: others/index_search.ts
+  checksum: a11509caf739031c6cc4d716aa66ebd205cd30e9241b2cfd3dd6dba75dccff56
+- filename: cloud_shell_instructions.md
+  checksum: 9c6fdb80d893409a5b2a4ca406b5b675a1d15fa0f11a24c7f4517ba7760a2249
+version: ""
